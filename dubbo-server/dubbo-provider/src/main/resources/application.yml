@@ -1,0 +1,51 @@
+## spring
+spring:
+## mysql
+  datasource:
+    druid:
+      max-active: 200
+      pool-prepared-statements: true
+      test-on-borrow: false
+      test-on-return: false
+      url: jdbc:mysql://localhost:3306/person?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+      min-idle: 1
+      password: root
+      username: root
+      driver-class-name: com.mysql.jdbc.Driver
+## redis
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    jedis:
+      pool:
+        max-idle: 8
+        max-wait: -1
+        min-idle: 0
+    timeout: 30000
+    password:
+
+  application:
+    name: dubbo-provider
+
+## mybatis
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+
+## dubbo
+dubbo:
+  application:
+    name: dubbo_provider
+  registry:
+    ## protocol: zookeeper
+    address: zookeeper://127.0.0.1:2181
+  protocol:
+    name: dubbo
+    port: 20880
+## ɨ��ע���ͨ�������ý�����ע�ᵽzk
+  scan:
+    base-packages: com.youzi.dubbo.service.api
+
+
+## �˿�
+server:
+  port:8081

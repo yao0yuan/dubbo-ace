@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de04976-a204-4644-8ac0-6a8c3c106ef9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dubbo-server/dubbo-admin/dubbo-admin-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-server/dubbo-admin/dubbo-admin-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-server/dubbo-admin/dubbo-admin-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-server/dubbo-admin/dubbo-admin-ui/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dubbo-server/dubbo-admin" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gZMnNfFrZWt7dDHNWcQnNju9c0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="api" />
+      <recent name="com.youzi.dubbo.provider.api" />
+      <recent name="com.youzi.dubbo.provider.enmus" />
+      <recent name="com.youzi.dubbo.provider.util" />
+      <recent name="com.youzi.dubbo.provider.result" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\dubbo-ace\dubbo-server\dubbo-service\src\main\java\com\youzi\dubbo\service\vo" />
+      <recent name="D:\workspace\dubbo-ace\dubbo-server\dubbo-common\src\main\java" />
+      <recent name="D:\workspace\dubbo-ace\dubbo-server\dubbo-provider\src\main\java\com\youzi\dubbo\provider\vo" />
+      <recent name="D:\workspace\dubbo-ace\dubbo-server\dubbo-provider\src\main\java\com\youzi\dubbo\provider\service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DubboConsumApplication">
+    <configuration name="DubboConsumApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-consum" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youzi.dubbo.consum.DubboConsumApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youzi.dubbo.provider.DubboProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DubboConsumApplication" />
+      <item itemvalue="Spring Boot.DubboProviderApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de04976-a204-4644-8ac0-6a8c3c106ef9" name="Default Changelist" comment="" />
+      <created>1598317826531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598317826531</updated>
+      <workItem from="1598317828003" duration="12940000" />
+      <workItem from="1598491319642" duration="7069000" />
+      <workItem from="1598575107323" duration="139000" />
+      <workItem from="1598575253626" duration="120000" />
+      <workItem from="1598575487241" duration="121000" />
+      <workItem from="1598576342479" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="51" key="#Project_Structure" timestamp="1598317863878">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="324" y="51" key="#Project_Structure/0.0.1463.783@0.0.1463.783" timestamp="1598317863878" />
+    <state x="187" y="47" width="1161" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598333999833">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="187" y="47" width="1161" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.783@0.0.1463.783" timestamp="1598333999833" />
+    <state x="537" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1598321150457">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="537" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1463.783@0.0.1463.783" timestamp="1598321150457" />
+    <state x="540" y="317" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598511538190">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="540" y="317" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1463.783@0.0.1463.783" timestamp="1598511538190" />
+    <state x="462" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598321417571">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="462" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.783@0.0.1463.783" timestamp="1598321417571" />
+    <state x="401" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598322206204">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="401" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1463.783@0.0.1463.783" timestamp="1598322206204" />
+    <state width="479" height="466" key="DebuggerActiveHint" timestamp="1598517484706">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="479" height="466" key="DebuggerActiveHint/0.0.1463.783@0.0.1463.783" timestamp="1598517484706" />
+    <state x="512" y="148" key="FileChooserDialogImpl" timestamp="1598511417374">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="512" y="148" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1598511417374" />
+    <state width="1420" height="327" key="GridCell.Tab.0.bottom" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.0.center" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.0.left" timestamp="1598519434109">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1598519434109" />
+    <state width="1420" height="327" key="GridCell.Tab.0.right" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.1.bottom" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.1.bottom/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.1.center" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.1.center/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.1.left" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.1.left/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.1.right" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.1.right/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.2.bottom" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.2.bottom/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.2.center" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.2.center/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.2.left" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.2.left/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state width="1420" height="327" key="GridCell.Tab.2.right" timestamp="1598519434110">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.2.right/0.0.1463.783@0.0.1463.783" timestamp="1598519434110" />
+    <state x="395" y="90" key="NewModule_or_Project.wizard" timestamp="1598325031229">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="395" y="90" key="NewModule_or_Project.wizard/0.0.1463.783@0.0.1463.783" timestamp="1598325031229" />
+    <state x="233" y="0" key="SettingsEditor" timestamp="1598511418020">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="233" y="0" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1598511418020" />
+    <state x="154" y="150" key="new project wizard" timestamp="1598511201422">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="154" y="150" key="new project wizard/0.0.1463.783@0.0.1463.783" timestamp="1598511201422" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-server/dubbo-consum/src/main/java/com/youzi/dubbo/consum/controller/LoginController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
